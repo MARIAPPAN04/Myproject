@@ -1,0 +1,199 @@
+[
+{
+"filter_id":1,
+"products":[{
+             "product_id":10,
+             "product_name":"Iron box",
+             "imgSrc":"Images/Home3.webp",
+             "price":2000
+             },
+             {
+             "product_id":11,
+             "product_name":"Electric Cooker",
+             "imgSrc":"Images/Home1.webp",
+             "price":8000
+             },
+             {
+             "product_id":13,
+             "product_name":"Curtains",
+             "imgSrc":"Images/Home6.webp",
+             "price":3000
+             },
+             {
+             "product_id":14,
+             "product_name":"Bed",
+             "imgSrc":"Images/Home2.webp",
+             "price":20000
+             },
+             {
+             "product_id":15,
+             "product_name":"AC",
+             "imgSrc":"Images/Home5.webp",
+             "price":10000
+             },
+             {
+             "product_id":16,
+             "product_name":"Fan",
+             "imgSrc":"Images/Home4.webp",
+             "price":3000
+             }]
+ },
+ {
+ "filter_id":2,
+ "products":[{
+            "product_id":17,
+            "product_name":"T-Shirt",
+            "imgSrc":"Images/Mens2.webp",
+            "price":999
+            },
+            {
+            "product_id":18,
+            "product_name":"Shirt",
+            "imgSrc":"Images/Mens3.webp",
+            "price":1599
+            },
+            {
+            "product_id":19,
+            "product_name":"Men Jeans",
+            "imgSrc":"Images/Mens4.webp",
+            "price":2999
+            },
+            {
+            "product_id":20,
+            "product_name":"Mens Chain",
+            "imgSrc":"Images/Mens5.webp",
+            "price":400
+            },
+            {
+            "product_id":21,
+            "product_name":"Men shoes",
+            "imgSrc":"Images/Mens1.webp",
+            "price":499
+            },
+            {
+            "product_id":22,
+            "product_name":"Men Watch",
+            "imgSrc":"Images/Mens6.webp",
+            "price":1000
+            }]
+            
+ },
+ {
+ "filter_id":3,
+ "products":[{
+             "product_id":23,
+             "product_name":"Women Kurti",
+             "imgSrc":"Images/Wons1.webp",
+             "price":1000
+             },
+             {
+             "product_id":24,
+             "product_name":"Saree",
+             "imgSrc":"Images/Wons2.webp",
+             "price":2000
+             },
+             {
+             "product_id":25,
+             "product_name":"Top",
+             "imgSrc":"Images/Wons3.webp",
+             "price":1000
+             },
+             {
+             "product_id":26,
+             "product_name":"Heels",
+             "imgSrc":"Images/Wons6.webp",
+             "price":3000
+             },
+             {
+             "product_id":27,
+             "product_name":"Heels",
+             "imgSrc":"Images/Wons5.webp",
+             "price":1500
+             },
+             {
+             "product_id":28,
+             "product_name":"Top",
+             "imgSrc":"Images/Wons4.webp",
+             "price":1000
+             }]
+ },
+ {
+ "filter_id":4,
+ "products":[{
+              "product_id":29,
+              "product_name":"Mutton Biryani",
+              "imgSrc":"Images/Food1.webp",
+              "price":500
+              },
+              {
+              "product_id":30,
+              "product_name":"Dosa",
+              "imgSrc":"Images/Food3.webp",
+              "price":180
+              },
+              {
+              "product_id":31,
+              "product_name":"Chappathi",
+              "imgSrc":"Images/Food5.jpg",
+              "price":120
+              },
+              {
+              "product_id":32,
+              "product_name":"Chicken Biryani",
+              "imgSrc":"Images/Food2.webp",
+              "price":250
+              },
+              {
+              "product_id":33,
+              "product_name":"Idli Vada",
+              "imgSrc":"Images/Food4.webp",
+              "price":399
+              },
+              {
+              "product_id":34,
+              "product_name":"Chicken 65",
+              "imgSrc":"Images/Food6.webp",
+              "price":60
+              }]
+ },
+ {
+ "filter_id":5,
+ "products":[{
+              "product_id":35,
+              "product_name":"Book 1",
+              "imgSrc":"Images/Book1.webp",
+              "price":300
+              },
+              {
+              "product_id":36,
+              "product_name":"Book 2",
+              "imgSrc":"Images/Book2.jpg",
+              "price":200
+              },
+              {
+              "product_id":37,
+              "product_name":"Book 3",
+              "imgSrc":"Images/Book3.jpg",
+              "price":280
+              },
+              {
+              "product_id":38,
+              "product_name":"Book 4",
+              "imgSrc":"Images/Book4.jpg",
+              "price":100
+              },
+              {
+              "product_id":39,
+              "product_name":"Book 5",
+              "imgSrc":"Images/Book5.jpg",
+              "price":400
+              },
+              {
+              "product_id":40,
+              "product_name":"Book 6",
+              "imgSrc":"Images/Book6.jpg",
+              "price":200
+              }]
+ 
+}
+]
