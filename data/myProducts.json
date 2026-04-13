@@ -160,37 +160,37 @@
  "filter_id":5,
  "products":[{
               "product_id":35,
-              "product_name":"Book 1",
+              "product_name":"Amarargal",
               "imgSrc":"Images/Book1.webp",
               "price":300
               },
               {
               "product_id":36,
-              "product_name":"Book 2",
+              "product_name":"Oru Raniyin Kadhal",
               "imgSrc":"Images/Book2.jpg",
               "price":200
               },
               {
               "product_id":37,
-              "product_name":"Book 3",
+              "product_name":"Marana Mugam",
               "imgSrc":"Images/Book3.jpg",
               "price":280
               },
               {
               "product_id":38,
-              "product_name":"Book 4",
+              "product_name":"The Business",
               "imgSrc":"Images/Book4.jpg",
               "price":100
               },
               {
               "product_id":39,
-              "product_name":"Book 5",
+              "product_name":"Marana Mugam",
               "imgSrc":"Images/Book5.jpg",
               "price":400
               },
               {
               "product_id":40,
-              "product_name":"Book 6",
+              "product_name":"Oru Roja Ithayam",
               "imgSrc":"Images/Book6.jpg",
               "price":200
               }]
